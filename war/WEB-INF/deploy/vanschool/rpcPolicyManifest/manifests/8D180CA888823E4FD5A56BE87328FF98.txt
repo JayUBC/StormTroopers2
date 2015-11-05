@@ -1,0 +1,2 @@
+serviceClass: com.tutorial.gwt.client.UserDataService
+path: 0CF8C2E1323F1384EE3FF9096C48B440.gwt.rpc

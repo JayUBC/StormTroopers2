@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+              http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+	version="2.5" xmlns="http://java.sun.com/xml/ns/javaee">
+	<servlet>
+		<servlet-name>ConnectionManagerImpl</servlet-name>
+		<servlet-class>com.tutorial.gwt.server.ConnectionManagerImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>FileConnectionManagerImpl</servlet-name>
+		<servlet-class>com.tutorial.gwt.server.FileConnectionManagerImpl</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>loginService</servlet-name>
+		<servlet-class>com.tutorial.gwt.server.LoginServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>userDataService</servlet-name>
+		<servlet-class>com.tutorial.gwt.server.UserDataServiceImpl</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ConnectionManagerImpl</servlet-name>
+		<url-pattern>/vanschool/school</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>FileConnectionManagerImpl</servlet-name>
+		<url-pattern>/vanschool/file</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>loginService</servlet-name>
+		<url-pattern>/vanschool/login</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>userDataService</servlet-name>
+		<url-pattern>/vanschool/userdata</url-pattern>
+	</servlet-mapping>
+
+	<!-- Default page to serve -->
+	<welcome-file-list>
+		<welcome-file>VanSchool.html</welcome-file>
+	</welcome-file-list>
+</web-app>

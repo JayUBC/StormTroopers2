@@ -1,0 +1,65 @@
+Number,Name,Address,URL,IsPrivate,HasEngLangLearnerProg,HasFrenchImmersionProg,HasAborigSuppServices,HasContinuingEdProgram,HasDistributedLearnProg,HasCareerPrepProg,HasCoopProg,HasApprenticeshipProg,HasCareerTechnicalProg,Lat,Long
+3939032,Admiral Seymour Elementary,1130 Keefer St,http://www.vsb.bc.ca/schools/admiral-seymour,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2786,-123.0803
+6868018,Bayview Elementary,2251 Collingwood St,http://www.vsb.bc.ca/schools/bayview,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2665,-123.1823
+3939004,Britannia Community Secondary,1001 Cotton Drive,http://www.vsb.bc.ca/schools/britannia-secondary,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,49.2752,-123.0719
+3939088,Captain James Cook Elementary,3340 E 54th Av,http://www.vsb.bc.ca/schools/captain-james-cook,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2194,-123.0358
+3939137,Champlain Heights Annex,7835 Champlain Crescent,http://www.vsb.bc.ca/schools/champlain-heights-annex,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2141,-123.0305
+3939117,Chief Maquinna Annex,2882 E 4th Av,http://www.vsb.bc.ca/schools/chief-maquinna,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2664,-123.0451
+3939139,Collingwood Neighbourhood School,3417 Euclid Av,http://www.vsb.bc.ca/schools/collingwood-neighbourhood-bruce-annex,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2363,-123.0323
+3939035,David Lloyd George Elementary,8370 Cartier St,http://www.vsb.bc.ca/schools/david-lloyd-george,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.21,-123.1363
+7324058,David Thompson Elementary,1755 E 55th Av,http://www.vsb.bc.ca/schools/david-thompson,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2204,-123.0706
+3939071,Edith Cavell Elementary,500 W 20th Av,http://www.vsb.bc.ca/schools/edith-cavell,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2529,-123.1172
+3939140,Elsie Roy Elementary,150 Drake St,http://www.vsb.bc.ca/schools/elsie-roy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2722,-123.1225
+3939022,Eric Hamber Secondary,5025 Willow St,http://www.vsb.bc.ca/,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2396,-123.1258
+3939136,False Creek Elementary,900 School Green,http://www.vsb.bc.ca/schools/false-creek,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2671,-123.1269
+3939121,Garibaldi Annex,1025 Slocan St,http://www.vsb.bc.ca/,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2754,-123.0503
+3939014,Gladstone Secondary,4105 Gladstone St,http://www.vsb.bc.ca/schools/gladstone,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,49.2476,-123.0616
+3939076,Grandview Elementary,2055 Woodland Drive,http://www.vsb.bc.ca/schools/grandview,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2662,-123.0744
+4747013,Henderson Elementary,451 E 53rd Av,http://www.vsb.bc.ca/schools/john-henderson,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2226,-123.0953
+3939053,Henry Hudson Elementary,1551 Cypress St,http://www.vsb.bc.ca/schools/henry-hudson,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2722,-123.1494
+3939062,John Norquay Elementary,4710 Slocan St,http://www.vsb.bc.ca/schools/john-norquay,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2414,-123.0516
+3939007,John Oliver Secondary,530 E 41st Av,http://www.vsb.bc.ca/schools/john-oliver,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.232,-123.0928
+3939113,Kerrisdale Annex,3250 W 43rd Av,http://www.vsb.bc.ca/schools/kerrisdale-annex,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2329,-123.1774
+3939038,Kerrisdale Elementary,5555 Carnarvon St,http://www.vsb.bc.ca/schools/kerrisdale,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2362,-123.1735
+3939016,Killarney Secondary,6454 Killarney St,http://www.vsb.bc.ca/schools/killarney,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2253,-123.0442
+3939001,King George Secondary,1755 Barclay St,http://www.vsb.bc.ca/schools/king-george,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,49.2898,-123.1364
+4141033,Kitchener Elementary,4055 Blenheim St,http://www.vsb.bc.ca/schools/lord-kitchener,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2506,-123.1792
+3939006,Kitsilano Secondary,2550 W 10th Av,http://www.vsb.bc.ca/schools/kitsilano,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2627,-123.1636
+3939054,Laura Secord Elementary,2500 Lakewood Drive,http://www.vsb.bc.ca/schools/laura-secord,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2617,-123.0602
+3939043,Lecole Bilingue Elementary,1166 W 14th Av,http://www.vsb.bc.ca/schools/lecole-bilingue,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2581,-123.1304
+3939069,Lord Beaconsfield Elementary,3663 Penticton St,http://www.vsb.bc.ca/schools/lord-beaconsfield,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2521,-123.0527
+3939008,Lord Byng Secondary,3939 W 16th Av,http://www.vsb.bc.ca/schools/lord-byng,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,49.2596,-123.1925
+3939046,Lord Nelson Elementary,2235 Kitchener St,http://www.vsb.bc.ca/schools/lord-nelson,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2725,-123.0597
+3939129,Lord Roberts Annex,1150 Nelson St,http://www.vsb.bc.ca/schools/roberts-annex,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2831,-123.1298
+3939114,Lord Selkirk Annex,4444 Dumfries St,http://www.vsb.bc.ca/schools/selkirk-annex,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2453,-123.0725
+3939028,Lord Strathcona Community Elementary,592 E Pender St,http://www.vsb.bc.ca/schools/lord-strathcona,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2798,-123.0915
+3939003,Magee Secondary,6360 Maple St,http://www.vsb.bc.ca/schools/magee,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,49.2286,-123.1515
+3939074,Maple Grove Elementary,6199 Cypress St,http://www.vsb.bc.ca/schools/maple-grove,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2294,-123.1515
+3939127,Mount Pleasant Elementary,2300 Guelph St,http://www.vsb.bc.ca/schools/mount-pleasant,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.264,-123.094
+3939012,Point Grey Secondary,5350 Eest Boulevard,http://www.vsb.bc.ca/schools/point-grey,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2373,-123.1534
+3939019,Prince of Wales Secondary,2250 Eddington Drive,http://www.vsb.bc.ca/schools/prince-wales,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.245,-123.1595
+3939040,Queen Alexandra Elementary,1300 E Broadway,http://www.vsb.bc.ca/schools/queen-alexandra,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.262,-123.0759
+3939110,Queen Elizabeth Annex,4275 Crown St,http://www.vsb.bc.ca/schools/queen-elizabeth-annex,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2489,-123.1947
+3939041,Queen Mary Elementary,2000 Trimble St,http://www.vsb.bc.ca/http://www.vsb.bc.ca/schools/queen-mary,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2679,-123.2048
+3939107,Queen Victoria Annex,1850 E 3rd Av,http://www.vsb.bc.ca/schools/queen-victoria-grandview-annex,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2672,-123.0663
+3838047,Quilchena Elementary,5300 Maple St,http://www.vsb.bc.ca/schools/quilchena,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2372,-123.1516
+4343023,R C Macdonald Elementary,1950 E Hastings St,http://www.vsb.bc.ca/schools/sir-william-macdonald,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2807,-123.0647
+3939072,Shaughnessy Elementary,4250 Marguerite St,http://www.vsb.bc.ca/schools/shaughnessy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2487,-123.1438
+3939079,Sir Alexander Mackenzie Elementary,960 E 39th Av,http://www.vsb.bc.ca/schools/sir-alexander-mackenzie,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2345,-123.0867
+3939093,Sir Charles Kingsford-Smith,6901 Elliott St,http://www.vsb.bc.ca/schools/sir-charles-kingsford-smith,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2216,-123.0557
+3939030,Sir Guy Carleton Community Elementary,3250 Kingsway,http://www.vsb.bc.ca/schools/sir-guy-carleton,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2343,-123.0376
+3939120,Sir James Douglas Annex,7668 Borden St,http://www.vsb.bc.ca/schools/sir-james-douglas-annex,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2148,-123.0733
+3939066,Sir Sandford Fleming Elementary,1401 E 49th Av,http://www.vsb.bc.ca/schools/sir-sandford-fleming,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2257,-123.0766
+3939033,Sir William Macdonald Community,5970 Selkirk St,http://www.vsb.bc.ca/schools/sir-william-osler,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2308,-123.1327
+3939015,Sir Winston Churchill Secondary,7055 Heather St,http://www.vsb.bc.ca/schools/sir-winston-churchill,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2211,-123.1256
+3939087,Southlands Elementary,5351 Camosun St,http://www.vsb.bc.ca/schools/southlands,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2381,-123.1978
+3939102,Tecumseh Annex,1551 E 37th Av,http://www.vsb.bc.ca/schools/tecumseh-annex,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2371,-123.0731
+3939050,Tecumseh Elementary,1850 E 41st Av,http://www.vsb.bc.ca/schools/tecumseh,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2321,-123.068
+3939010,Templeton Secondary,727 Templeton Drive,http://www.vsb.bc.ca/schools/templeton,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2784,-123.0607
+3939082,Thunderbird Elementary,2325 Cassiar St,http://www.vsb.bc.ca/schools/thunderbird,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2636,-123.0319
+3939084,Trafalgar Elementary,4170 Trafalgar St,http://www.vsb.bc.ca/http://www.vsb.bc.ca/schools/trafalgar,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2502,-123.1646
+4141069,University Highlands Elementary,5395 Chancellor Boulevard,http://www.vsb.bc.ca/schools/university-hill-elementary,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2748,-123.2374
+3939011,Vancouver Technical Secondary,2600 E Broadway,http://www.vsb.bc.ca/schools/vancouver-technical,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,49.2608,-123.0513
+3939056,Walter Moberly Elementary,1000 E 59th Av,http://www.vsb.bc.ca/schools/walter-moberly,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2161,-123.0843
+3939099,Waverley Elementary,6111 Elliott St,http://www.vsb.bc.ca/schools/waverley,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,49.2278,-123.0558
+3939020,Windermere Community Secondary,3155 E 27th Av,http://www.vsb.bc.ca/schools/windermere,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,49.2465,-123.0372

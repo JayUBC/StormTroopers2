@@ -1,0 +1,2 @@
+serviceClass: com.tutorial.gwt.client.ConnectionManager
+path: 8CDE53AB7E666D731A7094011F8502F5.gwt.rpc

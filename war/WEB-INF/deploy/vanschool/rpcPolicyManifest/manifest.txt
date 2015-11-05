@@ -1,0 +1,5 @@
+# Module vanschool
+# RPC service class, partial path of RPC policy file
+com.tutorial.gwt.client.LoginService, C95146ED555A2EE89AD326414181C650.gwt.rpc
+com.tutorial.gwt.client.ConnectionManager, 8CDE53AB7E666D731A7094011F8502F5.gwt.rpc
+com.tutorial.gwt.client.UserDataService, 0CF8C2E1323F1384EE3FF9096C48B440.gwt.rpc

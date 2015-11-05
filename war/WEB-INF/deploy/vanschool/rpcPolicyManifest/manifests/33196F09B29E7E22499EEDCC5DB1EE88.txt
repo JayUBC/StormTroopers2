@@ -1,0 +1,2 @@
+serviceClass: com.tutorial.gwt.client.LoginService
+path: C95146ED555A2EE89AD326414181C650.gwt.rpc
