@@ -5,4 +5,4 @@ gaeDeployDialogSettings=
 gaeLaunchAppInBrowser=true
 googleCloudSqlEnabled=false
 localDevMySqlEnabled=true
-ormEnhancementInclusions=src/|src/com/tutorial/gwt/server/UserData.java
+ormEnhancementInclusions=src/|src/com/tutorial/gwt/server/UserData.java|src/com/tutorial/gwt/server/School.java

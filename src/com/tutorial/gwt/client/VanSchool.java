@@ -249,6 +249,7 @@ public class VanSchool implements EntryPoint, ValueChangeHandler {
 		if (tokenIsASchool(token)) {
 			renderSchoolPage(token);
 		} else {
+			RootPanel.get("core").clear();
 			renderHomePage();
 		}
 	}
@@ -548,35 +549,28 @@ public class VanSchool implements EntryPoint, ValueChangeHandler {
 
 		Location l = new Location(1.33, 2.54);
 
-		SchoolClient school1 = new SchoolClient(new Long(3939012), "Point Grey Secondary", "5350 Eest Boulevard",
-				"http://www.vsb.bc.ca/schools/point-grey", false, true, false, true, false, false, true, false, true,
-				false, new Location(49.2379, -123.1534));
-		schoolList.add(school1);
-		SchoolClient school2 = new SchoolClient(new Long(3939074), "Maple Grove Elementary", "6199 Cypress St",
-				"http://www.vsb.bc.ca/schools/maple-grove", false, true, false, true, false, false, false, false, false,
-				false, new Location(49.2294, -123.1515));
-		schoolList.add(school2);
-		SchoolClient school3 = new SchoolClient(new Long(3939008), "Lord Byng Secondary", "3939 W 16th Av",
-				"http://www.vsb.bc.ca/schools/lord-byng", false, true, false, true, false, false, true, false, true,
-				true, new Location(49.2596, -123.1925));
-		schoolList.add(school3);
-		SchoolClient school4 = new SchoolClient(new Long(3939084), "Trafalgar Elementary", "4170 Trafalgar St",
-				"http://www.vsb.bc.ca/schools/trafalgar", false, true, false, true, false, false, false, false, false,
-				false, new Location(49.2502, -123.1646));
-		schoolList.add(school4);
-		SchoolClient school5 = new SchoolClient(new Long(3939010), "Templeton Secondary", "727 Templeton Drive",
-				"http://www.vsb.bc.ca/schools/templeton", false, true, false, true, false, false, true, false, true,
-				false, new Location(49.2784, -123.0607));
-		schoolList.add(school5);
+//		SchoolClient school1 = new SchoolClient(new Long(3939012), "Point Grey Secondary", "5350 Eest Boulevard",
+//				"http://www.vsb.bc.ca/schools/point-grey", false, true, false, true, false, false, true, false, true,
+//				false, new Location(49.2379, -123.1534));
+//		schoolList.add(school1);
+//		SchoolClient school2 = new SchoolClient(new Long(3939074), "Maple Grove Elementary", "6199 Cypress St",
+//				"http://www.vsb.bc.ca/schools/maple-grove", false, true, false, true, false, false, false, false, false,
+//				false, new Location(49.2294, -123.1515));
+//		schoolList.add(school2);
+//		SchoolClient school3 = new SchoolClient(new Long(3939008), "Lord Byng Secondary", "3939 W 16th Av",
+//				"http://www.vsb.bc.ca/schools/lord-byng", false, true, false, true, false, false, true, false, true,
+//				true, new Location(49.2596, -123.1925));
+//		schoolList.add(school3);
+//		SchoolClient school4 = new SchoolClient(new Long(3939084), "Trafalgar Elementary", "4170 Trafalgar St",
+//				"http://www.vsb.bc.ca/schools/trafalgar", false, true, false, true, false, false, false, false, false,
+//				false, new Location(49.2502, -123.1646));
+//		schoolList.add(school4);
+//		SchoolClient school5 = new SchoolClient(new Long(3939010), "Templeton Secondary", "727 Templeton Drive",
+//				"http://www.vsb.bc.ca/schools/templeton", false, true, false, true, false, false, true, false, true,
+//				false, new Location(49.2784, -123.0607));
+//		schoolList.add(school5);
 
-		schoolList = new ArrayList<SchoolClient>();
-
-		schoolList.add(school1);
-		schoolList.add(school2);
-		schoolList.add(school3);
-		schoolList.add(school4);
-		schoolList.add(school5);
-
+		
 		for (SchoolClient s : schoolList) {
 			if (schoolsFlexTable.getRowCount() == schoolList.size() + 1)
 				return;
